@@ -1,2 +1,2 @@
-# laser_captured_islets
-Laser-captured islet transcriptomics
+# laser_capture_microdissected_islets
+Laser capture-microdissected islet transcriptomics
