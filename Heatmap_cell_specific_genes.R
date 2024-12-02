@@ -4,6 +4,8 @@
 #
 #####################################################################
 
+# download gene markers_cell_type_extended.csv from "Other files" folder first
+
 # load islet metdata
 islet_id <- read.csv("Islets_Metdata.csv", row.names=1, header=TRUE)
 islet_id$Clinical_phenotype <- factor(islet_id$Clinical_phenotype, levels = c("ND", "sAAb", "mAAb", "T1D"))
