@@ -28,6 +28,7 @@ cat_var <- cat_var[c(1,2,3,4,9)]; cat_var
 
 ## saving in new folder "PCA untransformed data"
 # use custom function
+
 #can add ellipses with frame=TRUE
 pca_plots(my_ExpressionSet, cat_var = cat_var, shape_var = "Clinical_phenotype",folder_name = "PCA untransformed data")
 
@@ -36,6 +37,7 @@ pca_plots(my_ExpressionSet, cat_var = cat_var, shape_var = "Clinical_phenotype",
 pca_plots(glog_data, cat_var = cat_var, shape_var = "Clinical_phenotype",folder_name = "PCA VSN transformed data")
 
 ###### PLots with M3C package (PCA and UMAP) ############
+# uses custom function
 ## untransformed data
 PCA_UMAP_plots(my_ExpressionSet, cat_var = cat_var, folder_name = "Plots untransformed data with M3C package/260 islets")
 
@@ -46,7 +48,9 @@ PCA_UMAP_plots(glog_data, cat_var = cat_var, folder_name = "Plots VSN transforme
 PCA_UMAP_plots(glog_data, cat_var = cat_var, folder_name = "Plots VSN transformed data with M3C package/260 islets/Huber paper", seed = 45,
                axistextsize = 7, legendtextsize = 7,width = 5, height = 4)
 
-
+## plots with coding genes only 
+# result is similar plot as with glog_data
+PCA_UMAP_plots(glog_data_coding, cat_var = cat_var, folder_name = "Plots VSN transformed data with M3C package/260 islets/Coding")
 
 
 
