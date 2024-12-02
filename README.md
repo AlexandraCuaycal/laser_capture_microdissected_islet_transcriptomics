@@ -12,7 +12,7 @@ This repository contains scripts and files related to gene expression analyses o
 
 5: Continue QC (remove alpha cell-enriched islets based on previous step).
 
-6: Get gene expression matrix for genes of interest (Huber et al. paper).
+6: Get donor expression averages for genes of interest (Huber et al. paper).
 
 7: Differential expression (DE) analysis.
 
