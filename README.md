@@ -6,7 +6,7 @@ This repository contains scripts and files related to gene expression analyses o
 
 2: Load expression matrix and metdata.
 
-3: Perform QC and exploratory analysis.
+3: Perform QC and exploratory analyses.
 
 4: Heatmap of islet cell-specific genes.
 
@@ -14,9 +14,9 @@ This repository contains scripts and files related to gene expression analyses o
 
 6: Get donor expression averages for genes of interest (Huber et al. paper).
 
-7: Differential expression (DE) analysis.
+7: Differential expression (DE) analyses.
 
-8: Gene set enrichment analysis (GSEA) for Gene ontology and KEGG.
+8: Gene set enrichment analyses (GSEA) with gene ontology and KEGG.
 
 9: Plot results from GSEA.
 
