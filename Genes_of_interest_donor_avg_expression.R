@@ -1,12 +1,7 @@
-####### To generate expression plots with genes of interest ##############
+####### To obtain islet- and donor-based average expression of genes of interest ##############
 
-## This script is used to obtain gene expression data from genes of interest and generate expression plots per-islet based.
-
+## This script is used to obtain gene expression data from genes of interest 
 #set your working dir to the folder that cointains all files with setwd()
-
-## Huber et al color palette:
-## custom color palette for UMAP plot in Huber et al.
-color_pal <- c("#000000", "#ea81d7", "#F71482", "#077E97")
 
 ## gene expression data
 load("glog_data_subset_HLA_coding.RData")
