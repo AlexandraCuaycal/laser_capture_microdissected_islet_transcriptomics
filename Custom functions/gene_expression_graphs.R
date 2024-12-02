@@ -3,7 +3,16 @@
 gene_expression_graphs <- function(gene_expression, gene_description, genes_interest, folder=NULL, width=16, height=14,
                                    x_title="INS+ CD3- islets") {
   
-  genes_list <- gene_description[rownames(gene_description) %in% genes_interest$probe_id,]
+  if(ncol(genes_interest) == 1){
+    
+    genes_list <- gene_description_data[trimws(gene_description_data$genesymbol) %in% genes_interest$genesymbol,]
+    genes_list <- subset(genes_list, locus.type == "Coding")
+  }else{
+    
+    genes_list <- gene_description[rownames(gene_description) %in% genes_interest$probe_id,]
+  }
+  
+  
   genes_interest_expression <- table_ready(gene_expression = gene_expression, genes_of_interest =  genes_list)
   
   tukey_list <- tukey_tests(gene_expression, genes_list)$tukey_list
