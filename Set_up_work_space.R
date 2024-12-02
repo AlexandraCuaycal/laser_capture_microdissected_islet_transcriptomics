@@ -1,4 +1,5 @@
-# set up your working space (folder containing all files), then load all packages and custom functions
+# set up your working space (folder containing all files) with setwd(), 
+# then load all packages and custom functions
 
 # libraries
 library(cmapplot)
@@ -36,7 +37,6 @@ library(GOSemSim)
 library(pathview)
 library(aPEAR)
 
-
 library(biomaRt)
 library(piano)
 library(limma)
@@ -50,14 +50,12 @@ library(ggvenn)
 library(pheatmap)
 
 
-
 ## loading edited function for radar plots
 source(file = "ggradar_edit.R")
 environment(ggradar_edit) <- environment(ggradar)
 
 source("heatplot2.R") #vertical heatmaps
 environment(heatplot.enrichResult) <- environment(heatplot)
-
 
 ## gene expression islets functions
 source("table_ready.R")
