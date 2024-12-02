@@ -53,4 +53,36 @@ PCA_UMAP_plots(glog_data, cat_var = cat_var, folder_name = "Plots VSN transforme
 PCA_UMAP_plots(glog_data_coding, cat_var = cat_var, folder_name = "Plots VSN transformed data with M3C package/260 islets/Coding")
 
 
+################### removing islets that are enriched in alpha cells ###############
+
+# Run heatmap for cell specific genes first before continuing here
+
+islets <- colnames(glog_data_coding)
+
+## islets with alpha cell enriched probes
+load(file = "donors_contam_all_islets.RData")
+donors_contam <- donors_contam_all_islets
+
+##islets to remove
+islets_rm <- islets[islets %in% names(donors_contam)]; islets_rm
+
+# subsetting variance-stabilized dataset
+glog_data_subset<- glog_data[, !(colnames(glog_data) %in% islets_rm)]
+save(glog_data_subset, file = "glog_data_subset.RData")
+
+## keeping coding genes only
+glog_data_subset_coding <- glog_data_subset[rownames(glog_data_subset) %in% rownames(gene_description_coding), ]
+save(glog_data_subset_coding, file = "glog_data_subset_coding.RData")
+
+## Subsetting for islets with HLA Class II risk/neutral
+glog_data_subset_HLA_risk_neut<- glog_data_subset[, glog_data_subset$HLA_category %in% c("Risk", "Neutral")]
+save(glog_data_subset_HLA_risk_neut, file = "glog_data_subset_HLA_risk_neut.RData")
+
+### subsetting for coding genes only
+## this is to be used in DE analysis with piano package
+glog_data_subset_HLA_coding<- glog_data_subset_HLA_risk_neut[rownames(glog_data_subset_HLA_risk_neut) %in% rownames(gene_description_coding),]
+save(glog_data_subset_HLA_coding,file = "glog_data_subset_HLA_coding.RData")
+
+
+
 
