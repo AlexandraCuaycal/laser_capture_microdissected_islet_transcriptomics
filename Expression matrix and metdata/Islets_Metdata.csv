@@ -1,0 +1,261 @@
+"","Clinical_phenotype","Histological_phenotype","INS_stain","Insulitis","Donor_ID","Histological","ID_number","Age","HLA_category","Autoantibody_type","Race","Body_Wt","Pan_Wt","RPW","BMI","RPW_BMI","COD_ID","C_peptide","HbA1C","PancTransport_hrs","Peak_glucose"
+"ND_1","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_2","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_3","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_4","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_5","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_6","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_7","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_8","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_9","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_26","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_32","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_33","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_34","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_55","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_56","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_69","ND","INS+CD3-","Pos","Not_insulitic","ND_6232","INS_pos_CD3_neg",6232,14,"Protective","Negative","Caucasian",50,49.4,0.988,20.8,2.375,"Head Trauma",19.5,NA,"13.72",274
+"ND_10","ND","INS+CD3-","Pos","Not_insulitic","ND_6235","INS_pos_CD3_neg",6235,30,"Risk","Negative","Caucasian",76,102.31,1.346184211,25.4,4.027952756,"Head Trauma",8.1,NA,"17",276
+"ND_11","ND","INS+CD3-","Pos","Not_insulitic","ND_6235","INS_pos_CD3_neg",6235,30,"Risk","Negative","Caucasian",76,102.31,1.346184211,25.4,4.027952756,"Head Trauma",8.1,NA,"17",276
+"ND_12","ND","INS+CD3+","Pos","Insulitic","ND_6235","INS_pos_CD3_pos",6235,30,"Risk","Negative","Caucasian",76,102.31,1.346184211,25.4,4.027952756,"Head Trauma",8.1,NA,"17",276
+"ND_13","ND","INS+CD3-","Pos","Not_insulitic","ND_6235","INS_pos_CD3_neg",6235,30,"Risk","Negative","Caucasian",76,102.31,1.346184211,25.4,4.027952756,"Head Trauma",8.1,NA,"17",276
+"ND_14","ND","INS+CD3-","Pos","Not_insulitic","ND_6339","INS_pos_CD3_neg",6339,23.3,"Risk","Negative","Caucasian",88.2,NA,NA,25,NA,"Head Trauma",10.56,5.3,"17.4",214
+"ND_15","ND","INS+CD3-","Pos","Not_insulitic","ND_6339","INS_pos_CD3_neg",6339,23.3,"Risk","Negative","Caucasian",88.2,NA,NA,25,NA,"Head Trauma",10.56,5.3,"17.4",214
+"ND_16","ND","INS+CD3-","Pos","Not_insulitic","ND_6339","INS_pos_CD3_neg",6339,23.3,"Risk","Negative","Caucasian",88.2,NA,NA,25,NA,"Head Trauma",10.56,5.3,"17.4",214
+"ND_17","ND","INS+CD3-","Pos","Not_insulitic","ND_6339","INS_pos_CD3_neg",6339,23.3,"Risk","Negative","Caucasian",88.2,NA,NA,25,NA,"Head Trauma",10.56,5.3,"17.4",214
+"ND_18","ND","INS+CD3-","Pos","Not_insulitic","ND_6368","INS_pos_CD3_neg",6368,38.3,"Risk","Negative","Caucasian",60,74.78,1.246333333,20.7,3.612560386,"Head Trauma",3.05,5.2,"18.87",302
+"ND_19","ND","INS+CD3-","Pos","Not_insulitic","ND_6368","INS_pos_CD3_neg",6368,38.3,"Risk","Negative","Caucasian",60,74.78,1.246333333,20.7,3.612560386,"Head Trauma",3.05,5.2,"18.87",302
+"ND_20","ND","INS+CD3-","Pos","Not_insulitic","ND_6368","INS_pos_CD3_neg",6368,38.3,"Risk","Negative","Caucasian",60,74.78,1.246333333,20.7,3.612560386,"Head Trauma",3.05,5.2,"18.87",302
+"ND_21","ND","INS+CD3-","Pos","Not_insulitic","ND_6368","INS_pos_CD3_neg",6368,38.3,"Risk","Negative","Caucasian",60,74.78,1.246333333,20.7,3.612560386,"Head Trauma",3.05,5.2,"18.87",302
+"ND_22","ND","INS+CD3-","Pos","Not_insulitic","ND_6401","INS_pos_CD3_neg",6401,25.07,"Neutral","Negative","Hispanic/Latino",85.3,71.29,0.835756155,31.3,2.277635783,"Head Trauma (MVA)",12.81,5.8,"",449
+"ND_23","ND","INS+CD3-","Pos","Not_insulitic","ND_6401","INS_pos_CD3_neg",6401,25.07,"Neutral","Negative","Hispanic/Latino",85.3,71.29,0.835756155,31.3,2.277635783,"Head Trauma (MVA)",12.81,5.8,"",449
+"ND_24","ND","INS+CD3-","Pos","Not_insulitic","ND_6401","INS_pos_CD3_neg",6401,25.07,"Neutral","Negative","Hispanic/Latino",85.3,71.29,0.835756155,31.3,2.277635783,"Head Trauma (MVA)",12.81,5.8,"",449
+"ND_25","ND","INS+CD3-","Pos","Not_insulitic","ND_6401","INS_pos_CD3_neg",6401,25.07,"Neutral","Negative","Hispanic/Latino",85.3,71.29,0.835756155,31.3,2.277635783,"Head Trauma (MVA)",12.81,5.8,"",449
+"ND_27","ND","INS+CD3-","Pos","Not_insulitic","ND_6279","INS_pos_CD3_neg",6279,19,"Protective","Negative","Caucasian",110.2,80.17,0.727495463,34,2.357941176,"Head Trauma",8.01,NA,"45.25",233
+"ND_31","ND","INS+CD3-","Pos","Not_insulitic","ND_6279","INS_pos_CD3_neg",6279,19,"Protective","Negative","Caucasian",110.2,80.17,0.727495463,34,2.357941176,"Head Trauma",8.01,NA,"45.25",233
+"ND_36","ND","INS+CD3-","Pos","Not_insulitic","ND_6279","INS_pos_CD3_neg",6279,19,"Protective","Negative","Caucasian",110.2,80.17,0.727495463,34,2.357941176,"Head Trauma",8.01,NA,"45.25",233
+"ND_65","ND","INS+CD3-","Pos","Not_insulitic","ND_6279","INS_pos_CD3_neg",6279,19,"Protective","Negative","Caucasian",110.2,80.17,0.727495463,34,2.357941176,"Head Trauma",8.01,NA,"45.25",233
+"ND_28","ND","INS+CD3-","Pos","Not_insulitic","ND_6230","INS_pos_CD3_neg",6230,16,"Risk","Negative","Caucasian",56.7,66.27,1.168783069,19.4,3.415979381,"Head Trauma",5.22,5.3,"15.78",283
+"ND_41","ND","INS+CD3-","Pos","Not_insulitic","ND_6230","INS_pos_CD3_neg",6230,16,"Risk","Negative","Caucasian",56.7,66.27,1.168783069,19.4,3.415979381,"Head Trauma",5.22,5.3,"15.78",283
+"ND_45","ND","INS+CD3-","Pos","Not_insulitic","ND_6230","INS_pos_CD3_neg",6230,16,"Risk","Negative","Caucasian",56.7,66.27,1.168783069,19.4,3.415979381,"Head Trauma",5.22,5.3,"15.78",283
+"ND_66","ND","INS+CD3-","Pos","Not_insulitic","ND_6230","INS_pos_CD3_neg",6230,16,"Risk","Negative","Caucasian",56.7,66.27,1.168783069,19.4,3.415979381,"Head Trauma",5.22,5.3,"15.78",283
+"ND_29","ND","INS+CD3-","Pos","Not_insulitic","ND_6073","INS_pos_CD3_neg",6073,19.2,"Neutral","Negative","Caucasian",98,66.5,0.678571429,36,1.847222222,"Anoxia",0.69,NA,"12.57",NA
+"ND_46","ND","INS+CD3-","Pos","Not_insulitic","ND_6073","INS_pos_CD3_neg",6073,19.2,"Neutral","Negative","Caucasian",98,66.5,0.678571429,36,1.847222222,"Anoxia",0.69,NA,"12.57",NA
+"ND_50","ND","INS+CD3-","Pos","Not_insulitic","ND_6073","INS_pos_CD3_neg",6073,19.2,"Neutral","Negative","Caucasian",98,66.5,0.678571429,36,1.847222222,"Anoxia",0.69,NA,"12.57",NA
+"ND_71","ND","INS+CD3-","Pos","Not_insulitic","ND_6073","INS_pos_CD3_neg",6073,19.2,"Neutral","Negative","Caucasian",98,66.5,0.678571429,36,1.847222222,"Anoxia",0.69,NA,"12.57",NA
+"ND_30","ND","INS+CD3-","Pos","Not_insulitic","ND_6271","INS_pos_CD3_neg",6271,17,"Protective","Negative","Caucasian",77.1,97.99,1.270946822,24.4,4.015983607,"Head Trauma",11.47,NA,"15.32",386
+"ND_39","ND","INS+CD3-","Pos","Not_insulitic","ND_6271","INS_pos_CD3_neg",6271,17,"Protective","Negative","Caucasian",77.1,97.99,1.270946822,24.4,4.015983607,"Head Trauma",11.47,NA,"15.32",386
+"ND_43","ND","INS+CD3-","Pos","Not_insulitic","ND_6271","INS_pos_CD3_neg",6271,17,"Protective","Negative","Caucasian",77.1,97.99,1.270946822,24.4,4.015983607,"Head Trauma",11.47,NA,"15.32",386
+"ND_48","ND","INS+CD3-","Pos","Not_insulitic","ND_6271","INS_pos_CD3_neg",6271,17,"Protective","Negative","Caucasian",77.1,97.99,1.270946822,24.4,4.015983607,"Head Trauma",11.47,NA,"15.32",386
+"ND_35","ND","INS+CD3-","Pos","Not_insulitic","ND_6336","INS_pos_CD3_neg",6336,14.3,"Neutral","Negative","Caucasian",74,43.42,0.586756757,28.9,1.502422145,"Head Trauma",7.87,5.2,"18.6",294
+"ND_40","ND","INS+CD3-","Pos","Not_insulitic","ND_6336","INS_pos_CD3_neg",6336,14.3,"Neutral","Negative","Caucasian",74,43.42,0.586756757,28.9,1.502422145,"Head Trauma",7.87,5.2,"18.6",294
+"ND_57","ND","INS+CD3-","Pos","Not_insulitic","ND_6336","INS_pos_CD3_neg",6336,14.3,"Neutral","Negative","Caucasian",74,43.42,0.586756757,28.9,1.502422145,"Head Trauma",7.87,5.2,"18.6",294
+"ND_37","ND","INS+CD3-","Pos","Not_insulitic","ND_6316","INS_pos_CD3_neg",6316,6,"Risk","Negative","Caucasian",26.1,39.56,1.515708812,18.4,2.15,"Anoxia",4.58,NA,"17.18",NA
+"ND_52","ND","INS+CD3-","Pos","Not_insulitic","ND_6316","INS_pos_CD3_neg",6316,6,"Risk","Negative","Caucasian",26.1,39.56,1.515708812,18.4,2.15,"Anoxia",4.58,NA,"17.18",NA
+"ND_54","ND","INS+CD3-","Pos","Not_insulitic","ND_6316","INS_pos_CD3_neg",6316,6,"Risk","Negative","Caucasian",26.1,39.56,1.515708812,18.4,2.15,"Anoxia",4.58,NA,"17.18",NA
+"ND_73","ND","INS+CD3-","Pos","Not_insulitic","ND_6316","INS_pos_CD3_neg",6316,6,"Risk","Negative","Caucasian",26.1,39.56,1.515708812,18.4,2.15,"Anoxia",4.58,NA,"17.18",NA
+"ND_38","ND","INS+CD3-","Pos","Not_insulitic","ND_6098","INS_pos_CD3_neg",6098,17.8,"Risk","Negative","Caucasian",74,92.1,1.244594595,22.8,4.039473684,"Head Trauma",1.41,4.9,"16.92",257
+"ND_44","ND","INS+CD3-","Pos","Not_insulitic","ND_6098","INS_pos_CD3_neg",6098,17.8,"Risk","Negative","Caucasian",74,92.1,1.244594595,22.8,4.039473684,"Head Trauma",1.41,4.9,"16.92",257
+"ND_53","ND","INS+CD3-","Pos","Not_insulitic","ND_6098","INS_pos_CD3_neg",6098,17.8,"Risk","Negative","Caucasian",74,92.1,1.244594595,22.8,4.039473684,"Head Trauma",1.41,4.9,"16.92",257
+"ND_64","ND","INS+CD3-","Pos","Not_insulitic","ND_6098","INS_pos_CD3_neg",6098,17.8,"Risk","Negative","Caucasian",74,92.1,1.244594595,22.8,4.039473684,"Head Trauma",1.41,4.9,"16.92",257
+"ND_42","ND","INS+CD3-","Pos","Not_insulitic","ND_6131","INS_pos_CD3_neg",6131,24.2,"Risk","Negative","Caucasian",83,108.92,1.312289157,24.8,4.391935484,"Anoxia",1.01,NA,"18.78",193
+"ND_59","ND","INS+CD3-","Pos","Not_insulitic","ND_6131","INS_pos_CD3_neg",6131,24.2,"Risk","Negative","Caucasian",83,108.92,1.312289157,24.8,4.391935484,"Anoxia",1.01,NA,"18.78",193
+"ND_68","ND","INS+CD3-","Pos","Not_insulitic","ND_6131","INS_pos_CD3_neg",6131,24.2,"Risk","Negative","Caucasian",83,108.92,1.312289157,24.8,4.391935484,"Anoxia",1.01,NA,"18.78",193
+"ND_72","ND","INS+CD3-","Pos","Not_insulitic","ND_6131","INS_pos_CD3_neg",6131,24.2,"Risk","Negative","Caucasian",83,108.92,1.312289157,24.8,4.391935484,"Anoxia",1.01,NA,"18.78",193
+"ND_47","ND","INS+CD3-","Pos","Not_insulitic","ND_6293","INS_pos_CD3_neg",6293,9,"Neutral","Negative","Caucasian",35,26.12,0.746285714,18.6,1.404301075,"Anoxia",2.22,NA,"38.88",530
+"ND_60","ND","INS+CD3-","Pos","Not_insulitic","ND_6293","INS_pos_CD3_neg",6293,9,"Neutral","Negative","Caucasian",35,26.12,0.746285714,18.6,1.404301075,"Anoxia",2.22,NA,"38.88",530
+"ND_62","ND","INS+CD3-","Pos","Not_insulitic","ND_6293","INS_pos_CD3_neg",6293,9,"Neutral","Negative","Caucasian",35,26.12,0.746285714,18.6,1.404301075,"Anoxia",2.22,NA,"38.88",530
+"ND_49","ND","INS+CD3-","Pos","Not_insulitic","ND_6234","INS_pos_CD3_neg",6234,20,"Protective","Negative","Caucasian",67.6,49.36,0.730177515,25.6,1.928125,"Head Trauma (MVA)",6.89,5.8,"16.45",275
+"ND_51","ND","INS+CD3-","Pos","Not_insulitic","ND_6234","INS_pos_CD3_neg",6234,20,"Protective","Negative","Caucasian",67.6,49.36,0.730177515,25.6,1.928125,"Head Trauma (MVA)",6.89,5.8,"16.45",275
+"ND_63","ND","INS+CD3-","Pos","Not_insulitic","ND_6234","INS_pos_CD3_neg",6234,20,"Protective","Negative","Caucasian",67.6,49.36,0.730177515,25.6,1.928125,"Head Trauma (MVA)",6.89,5.8,"16.45",275
+"ND_67","ND","INS+CD3-","Pos","Not_insulitic","ND_6234","INS_pos_CD3_neg",6234,20,"Protective","Negative","Caucasian",67.6,49.36,0.730177515,25.6,1.928125,"Head Trauma (MVA)",6.89,5.8,"16.45",275
+"ND_58","ND","INS+CD3-","Pos","Not_insulitic","ND_6099","INS_pos_CD3_neg",6099,14.2,"Protective","Negative","Caucasian",92,85.56,0.93,30,2.852,"Head Trauma",5.37,NA,"14.83",249
+"ND_61","ND","INS+CD3-","Pos","Not_insulitic","ND_6099","INS_pos_CD3_neg",6099,14.2,"Protective","Negative","Caucasian",92,85.56,0.93,30,2.852,"Head Trauma",5.37,NA,"14.83",249
+"ND_70","ND","INS+CD3-","Pos","Not_insulitic","ND_6099","INS_pos_CD3_neg",6099,14.2,"Protective","Negative","Caucasian",92,85.56,0.93,30,2.852,"Head Trauma",5.37,NA,"14.83",249
+"sAAb_1","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6147","INS_pos_CD3_neg",6147,23.8,"Neutral","Biochemical","Caucasian",76,65.27,0.858815789,32.9,1.983890578,"Head Trauma",3.19,5.2,"16.47",287
+"sAAb_2","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6147","INS_pos_CD3_neg",6147,23.8,"Neutral","Biochemical","Caucasian",76,65.27,0.858815789,32.9,1.983890578,"Head Trauma",3.19,5.2,"16.47",287
+"sAAb_3","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6147","INS_pos_CD3_neg",6147,23.8,"Neutral","Biochemical","Caucasian",76,65.27,0.858815789,32.9,1.983890578,"Head Trauma",3.19,5.2,"16.47",287
+"sAAb_4","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6147","INS_pos_CD3_neg",6147,23.8,"Neutral","Biochemical","Caucasian",76,65.27,0.858815789,32.9,1.983890578,"Head Trauma",3.19,5.2,"16.47",287
+"sAAb_5","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6181","INS_pos_CD3_pos",6181,31.9,"Risk","Biochemical","Caucasian",75,100.2,1.336,21.9,4.575342466,"Head Trauma",0.06,NA,"12.65",196
+"sAAb_6","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6181","INS_pos_CD3_neg",6181,31.9,"Risk","Biochemical","Caucasian",75,100.2,1.336,21.9,4.575342466,"Head Trauma",0.06,NA,"12.65",196
+"sAAb_7","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6181","INS_pos_CD3_pos",6181,31.9,"Risk","Biochemical","Caucasian",75,100.2,1.336,21.9,4.575342466,"Head Trauma",0.06,NA,"12.65",196
+"sAAb_8","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6181","INS_pos_CD3_neg",6181,31.9,"Risk","Biochemical","Caucasian",75,100.2,1.336,21.9,4.575342466,"Head Trauma",0.06,NA,"12.65",196
+"sAAb_9","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6181","INS_pos_CD3_neg",6181,31.9,"Risk","Biochemical","Caucasian",75,100.2,1.336,21.9,4.575342466,"Head Trauma",0.06,NA,"12.65",196
+"sAAb_10","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6181","INS_pos_CD3_neg",6181,31.9,"Risk","Biochemical","Caucasian",75,100.2,1.336,21.9,4.575342466,"Head Trauma",0.06,NA,"12.65",196
+"sAAb_11","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6181","INS_pos_CD3_neg",6181,31.9,"Risk","Biochemical","Caucasian",75,100.2,1.336,21.9,4.575342466,"Head Trauma",0.06,NA,"12.65",196
+"sAAb_12","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6310","INS_pos_CD3_pos",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_13","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6310","INS_pos_CD3_pos",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_14","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6310","INS_pos_CD3_pos",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_15","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6310","INS_pos_CD3_pos",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_16","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6310","INS_pos_CD3_pos",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_17","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6310","INS_pos_CD3_neg",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_18","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6310","INS_pos_CD3_pos",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_19","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6310","INS_pos_CD3_pos",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_20","sAAb","INS+CD3+","Pos","Insulitic","sAAb_6310","INS_pos_CD3_pos",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_21","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6310","INS_pos_CD3_neg",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_22","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6310","INS_pos_CD3_neg",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_23","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6310","INS_pos_CD3_neg",6310,28,"Protective","Biochemical","Hispanic/Latino",67,82.93,1.237761194,22.4,3.702232143,"Anoxia",10.54,NA,"20.53",259
+"sAAb_24","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6314","INS_pos_CD3_neg",6314,21,"Risk","Biochemical","Caucasian",73,76.61,1.049452055,23.8,3.218907563,"Head Trauma (MVA)",1.49,NA,"13.77",207
+"sAAb_25","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6314","INS_pos_CD3_neg",6314,21,"Risk","Biochemical","Caucasian",73,76.61,1.049452055,23.8,3.218907563,"Head Trauma (MVA)",1.49,NA,"13.77",207
+"sAAb_26","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6314","INS_pos_CD3_neg",6314,21,"Risk","Biochemical","Caucasian",73,76.61,1.049452055,23.8,3.218907563,"Head Trauma (MVA)",1.49,NA,"13.77",207
+"sAAb_27","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6314","INS_pos_CD3_neg",6314,21,"Risk","Biochemical","Caucasian",73,76.61,1.049452055,23.8,3.218907563,"Head Trauma (MVA)",1.49,NA,"13.77",207
+"sAAb_28","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6314","INS_pos_CD3_neg",6314,21,"Risk","Biochemical","Caucasian",73,76.61,1.049452055,23.8,3.218907563,"Head Trauma (MVA)",1.49,NA,"13.77",207
+"sAAb_29","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6314","INS_pos_CD3_neg",6314,21,"Risk","Biochemical","Caucasian",73,76.61,1.049452055,23.8,3.218907563,"Head Trauma (MVA)",1.49,NA,"13.77",207
+"sAAb_30","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6347","INS_pos_CD3_neg",6347,8.5,"Protective","Biochemical","Caucasian",34,43.32,1.274117647,19.5,2.221538462,"Head Trauma",3.26,NA,"18.32",207
+"sAAb_31","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6347","INS_pos_CD3_neg",6347,8.5,"Protective","Biochemical","Caucasian",34,43.32,1.274117647,19.5,2.221538462,"Head Trauma",3.26,NA,"18.32",207
+"sAAb_32","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6347","INS_pos_CD3_neg",6347,8.5,"Protective","Biochemical","Caucasian",34,43.32,1.274117647,19.5,2.221538462,"Head Trauma",3.26,NA,"18.32",207
+"sAAb_33","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6347","INS_pos_CD3_neg",6347,8.5,"Protective","Biochemical","Caucasian",34,43.32,1.274117647,19.5,2.221538462,"Head Trauma",3.26,NA,"18.32",207
+"sAAb_34","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6347","INS_pos_CD3_neg",6347,8.5,"Protective","Biochemical","Caucasian",34,43.32,1.274117647,19.5,2.221538462,"Head Trauma",3.26,NA,"18.32",207
+"sAAb_35","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6397","INS_pos_CD3_neg",6397,21,"Protective","Biochemical","Caucasian",85.7,70.53,0.822987165,29.6,2.38277027,"Head Trauma",12.77,6,"43.5",374
+"sAAb_36","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6397","INS_pos_CD3_neg",6397,21,"Protective","Biochemical","Caucasian",85.7,70.53,0.822987165,29.6,2.38277027,"Head Trauma",12.77,6,"43.5",374
+"sAAb_37","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6397","INS_pos_CD3_neg",6397,21,"Protective","Biochemical","Caucasian",85.7,70.53,0.822987165,29.6,2.38277027,"Head Trauma",12.77,6,"43.5",374
+"sAAb_38","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6397","INS_pos_CD3_neg",6397,21,"Protective","Biochemical","Caucasian",85.7,70.53,0.822987165,29.6,2.38277027,"Head Trauma",12.77,6,"43.5",374
+"sAAb_39","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6397","INS_pos_CD3_neg",6397,21,"Protective","Biochemical","Caucasian",85.7,70.53,0.822987165,29.6,2.38277027,"Head Trauma",12.77,6,"43.5",374
+"sAAb_40","sAAb","INS+CD3-","Pos","Not_insulitic","sAAb_6397","INS_pos_CD3_neg",6397,21,"Protective","Biochemical","Caucasian",85.7,70.53,0.822987165,29.6,2.38277027,"Head Trauma",12.77,6,"43.5",374
+"mAAb_1","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6080","INS_pos_CD3_pos",6080,69.2,"Risk","Biochemical","Caucasian",48,49.74,1.03625,21.3,2.335211268,"Cerebrovascular/Stroke",1.84,NA,"21.85",226
+"mAAb_2","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6080","INS_pos_CD3_pos",6080,69.2,"Risk","Biochemical","Caucasian",48,49.74,1.03625,21.3,2.335211268,"Cerebrovascular/Stroke",1.84,NA,"21.85",226
+"mAAb_3","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6080","INS_pos_CD3_neg",6080,69.2,"Risk","Biochemical","Caucasian",48,49.74,1.03625,21.3,2.335211268,"Cerebrovascular/Stroke",1.84,NA,"21.85",226
+"mAAb_4","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6080","INS_pos_CD3_neg",6080,69.2,"Risk","Biochemical","Caucasian",48,49.74,1.03625,21.3,2.335211268,"Cerebrovascular/Stroke",1.84,NA,"21.85",226
+"mAAb_5","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6080","INS_pos_CD3_pos",6080,69.2,"Risk","Biochemical","Caucasian",48,49.74,1.03625,21.3,2.335211268,"Cerebrovascular/Stroke",1.84,NA,"21.85",226
+"mAAb_6","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6080","INS_pos_CD3_neg",6080,69.2,"Risk","Biochemical","Caucasian",48,49.74,1.03625,21.3,2.335211268,"Cerebrovascular/Stroke",1.84,NA,"21.85",226
+"mAAb_7","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6080","INS_pos_CD3_neg",6080,69.2,"Risk","Biochemical","Caucasian",48,49.74,1.03625,21.3,2.335211268,"Cerebrovascular/Stroke",1.84,NA,"21.85",226
+"mAAb_8","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6158","INS_pos_CD3_neg",6158,40.3,"Neutral","Biochemical","Caucasian",89,101.9,1.14494382,29.7,3.430976431,"Head Trauma",0.51,5.6,"15.22",449
+"mAAb_9","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6158","INS_pos_CD3_neg",6158,40.3,"Neutral","Biochemical","Caucasian",89,101.9,1.14494382,29.7,3.430976431,"Head Trauma",0.51,5.6,"15.22",449
+"mAAb_10","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6158","INS_pos_CD3_neg",6158,40.3,"Neutral","Biochemical","Caucasian",89,101.9,1.14494382,29.7,3.430976431,"Head Trauma",0.51,5.6,"15.22",449
+"mAAb_11","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6158","INS_pos_CD3_neg",6158,40.3,"Neutral","Biochemical","Caucasian",89,101.9,1.14494382,29.7,3.430976431,"Head Trauma",0.51,5.6,"15.22",449
+"mAAb_12","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6158","INS_pos_CD3_neg",6158,40.3,"Neutral","Biochemical","Caucasian",89,101.9,1.14494382,29.7,3.430976431,"Head Trauma",0.51,5.6,"15.22",449
+"mAAb_13","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6167","INS_pos_CD3_neg",6167,37,"Risk","Biochemical","Caucasian",76,88.3,1.161842105,26.3,3.357414449,"Head Trauma",5.43,NA,"17..18",185
+"mAAb_14","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6167","INS_pos_CD3_neg",6167,37,"Risk","Biochemical","Caucasian",76,88.3,1.161842105,26.3,3.357414449,"Head Trauma",5.43,NA,"17..18",185
+"mAAb_15","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6167","INS_pos_CD3_neg",6167,37,"Risk","Biochemical","Caucasian",76,88.3,1.161842105,26.3,3.357414449,"Head Trauma",5.43,NA,"17..18",185
+"mAAb_16","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6167","INS_pos_CD3_neg",6167,37,"Risk","Biochemical","Caucasian",76,88.3,1.161842105,26.3,3.357414449,"Head Trauma",5.43,NA,"17..18",185
+"mAAb_17","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6167","INS_pos_CD3_neg",6167,37,"Risk","Biochemical","Caucasian",76,88.3,1.161842105,26.3,3.357414449,"Head Trauma",5.43,NA,"17..18",185
+"mAAb_18","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6167","INS_pos_CD3_neg",6167,37,"Risk","Biochemical","Caucasian",76,88.3,1.161842105,26.3,3.357414449,"Head Trauma",5.43,NA,"17..18",185
+"mAAb_19","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6167","INS_pos_CD3_neg",6167,37,"Risk","Biochemical","Caucasian",76,88.3,1.161842105,26.3,3.357414449,"Head Trauma",5.43,NA,"17..18",185
+"mAAb_20","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6167","INS_pos_CD3_neg",6167,37,"Risk","Biochemical","Caucasian",76,88.3,1.161842105,26.3,3.357414449,"Head Trauma",5.43,NA,"17..18",185
+"mAAb_21","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6167","INS_pos_CD3_neg",6167,37,"Risk","Biochemical","Caucasian",76,88.3,1.161842105,26.3,3.357414449,"Head Trauma",5.43,NA,"17..18",185
+"mAAb_22","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6197","INS_pos_CD3_neg",6197,22,"Protective","Biochemical","African Am",89,73.3,0.823595506,28.2,2.59929078,"Head Trauma",17.48,5.5,"19.73",160
+"mAAb_23","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6197","INS_pos_CD3_pos",6197,22,"Protective","Biochemical","African Am",89,73.3,0.823595506,28.2,2.59929078,"Head Trauma",17.48,5.5,"19.73",160
+"mAAb_24","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6197","INS_pos_CD3_neg",6197,22,"Protective","Biochemical","African Am",89,73.3,0.823595506,28.2,2.59929078,"Head Trauma",17.48,5.5,"19.73",160
+"mAAb_25","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6197","INS_pos_CD3_neg",6197,22,"Protective","Biochemical","African Am",89,73.3,0.823595506,28.2,2.59929078,"Head Trauma",17.48,5.5,"19.73",160
+"mAAb_26","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6197","INS_pos_CD3_pos",6197,22,"Protective","Biochemical","African Am",89,73.3,0.823595506,28.2,2.59929078,"Head Trauma",17.48,5.5,"19.73",160
+"mAAb_27","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6197","INS_pos_CD3_neg",6197,22,"Protective","Biochemical","African Am",89,73.3,0.823595506,28.2,2.59929078,"Head Trauma",17.48,5.5,"19.73",160
+"mAAb_28","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6197","INS_pos_CD3_pos",6197,22,"Protective","Biochemical","African Am",89,73.3,0.823595506,28.2,2.59929078,"Head Trauma",17.48,5.5,"19.73",160
+"mAAb_29","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6267","INS_pos_CD3_pos",6267,23,"Risk","Biochemical","Caucasian",64,47.99,0.74984375,23.5,2.04212766,"Anoxia",16.59,5,"22.17",374
+"mAAb_30","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6267","INS_pos_CD3_pos",6267,23,"Risk","Biochemical","Caucasian",64,47.99,0.74984375,23.5,2.04212766,"Anoxia",16.59,5,"22.17",374
+"mAAb_31","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6267","INS_pos_CD3_neg",6267,23,"Risk","Biochemical","Caucasian",64,47.99,0.74984375,23.5,2.04212766,"Anoxia",16.59,5,"22.17",374
+"mAAb_32","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6267","INS_pos_CD3_pos",6267,23,"Risk","Biochemical","Caucasian",64,47.99,0.74984375,23.5,2.04212766,"Anoxia",16.59,5,"22.17",374
+"mAAb_33","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6267","INS_pos_CD3_neg",6267,23,"Risk","Biochemical","Caucasian",64,47.99,0.74984375,23.5,2.04212766,"Anoxia",16.59,5,"22.17",374
+"mAAb_34","mAAb","INS+CD3-","Pos","Not_insulitic","mAAb_6267","INS_pos_CD3_neg",6267,23,"Risk","Biochemical","Caucasian",64,47.99,0.74984375,23.5,2.04212766,"Anoxia",16.59,5,"22.17",374
+"mAAb_35","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6267","INS_pos_CD3_pos",6267,23,"Risk","Biochemical","Caucasian",64,47.99,0.74984375,23.5,2.04212766,"Anoxia",16.59,5,"22.17",374
+"mAAb_36","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6267","INS_pos_CD3_pos",6267,23,"Risk","Biochemical","Caucasian",64,47.99,0.74984375,23.5,2.04212766,"Anoxia",16.59,5,"22.17",374
+"mAAb_37","mAAb","INS+CD3+","Pos","Insulitic","mAAb_6267","INS_pos_CD3_pos",6267,23,"Risk","Biochemical","Caucasian",64,47.99,0.74984375,23.5,2.04212766,"Anoxia",16.59,5,"22.17",374
+"T1D_1","T1D","INS+CD3+","Pos","Insulitic","T1D_6195","INS_pos_CD3_pos",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_2","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6195","INS_neg_CD3_neg",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_3","T1D","INS+CD3+","Pos","Insulitic","T1D_6195","INS_pos_CD3_pos",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_4","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6195","INS_neg_CD3_neg",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_5","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6195","INS_neg_CD3_neg",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_6","T1D","INS-CD3+","Neg","Insulitic","T1D_6195","INS_neg_CD3_pos",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_7","T1D","INS-CD3+","Neg","Insulitic","T1D_6195","INS_neg_CD3_pos",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_8","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6195","INS_neg_CD3_neg",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_9","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6195","INS_neg_CD3_neg",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_10","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6195","INS_neg_CD3_neg",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_11","T1D","INS-CD3+","Neg","Insulitic","T1D_6195","INS_neg_CD3_pos",6195,19.3,"Protective","Biochemical","Caucasian",75,29.8,0.397333333,23.7,1.257383966,"Head Trauma",0.05,NA,"13.65",565
+"T1D_12","T1D","INS+CD3+","Pos","Insulitic","T1D_6224","INS_pos_CD3_pos",6224,21,"Risk","Negative","Caucasian",60.2,56.09,0.931727575,22.8,2.460087719,"Anoxia",0.05,NA,"7.3",1499
+"T1D_13","T1D","INS+CD3+","Pos","Insulitic","T1D_6224","INS_pos_CD3_pos",6224,21,"Risk","Negative","Caucasian",60.2,56.09,0.931727575,22.8,2.460087719,"Anoxia",0.05,NA,"7.3",1499
+"T1D_14","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6362","INS_pos_CD3_neg",6362,24.9,"Risk","Biochemical","Caucasian",90,53.26,0.591777778,28.5,1.86877193,"Head Trauma",0.38,10,"19.6",435
+"T1D_15","T1D","INS+CD3+","Pos","Insulitic","T1D_6362","INS_pos_CD3_pos",6362,24.9,"Risk","Biochemical","Caucasian",90,53.26,0.591777778,28.5,1.86877193,"Head Trauma",0.38,10,"19.6",435
+"T1D_16","T1D","INS+CD3+","Pos","Insulitic","T1D_6362","INS_pos_CD3_pos",6362,24.9,"Risk","Biochemical","Caucasian",90,53.26,0.591777778,28.5,1.86877193,"Head Trauma",0.38,10,"19.6",435
+"T1D_17","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6362","INS_pos_CD3_neg",6362,24.9,"Risk","Biochemical","Caucasian",90,53.26,0.591777778,28.5,1.86877193,"Head Trauma",0.38,10,"19.6",435
+"T1D_18","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6362","INS_pos_CD3_neg",6362,24.9,"Risk","Biochemical","Caucasian",90,53.26,0.591777778,28.5,1.86877193,"Head Trauma",0.38,10,"19.6",435
+"T1D_19","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6362","INS_pos_CD3_neg",6362,24.9,"Risk","Biochemical","Caucasian",90,53.26,0.591777778,28.5,1.86877193,"Head Trauma",0.38,10,"19.6",435
+"T1D_20","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6362","INS_pos_CD3_neg",6362,24.9,"Risk","Biochemical","Caucasian",90,53.26,0.591777778,28.5,1.86877193,"Head Trauma",0.38,10,"19.6",435
+"T1D_21","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6362","INS_pos_CD3_neg",6362,24.9,"Risk","Biochemical","Caucasian",90,53.26,0.591777778,28.5,1.86877193,"Head Trauma",0.38,10,"19.6",435
+"T1D_22","T1D","INS+CD3+","Pos","Insulitic","T1D_6362","INS_pos_CD3_pos",6362,24.9,"Risk","Biochemical","Caucasian",90,53.26,0.591777778,28.5,1.86877193,"Head Trauma",0.38,10,"19.6",435
+"T1D_23","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6371","INS_pos_CD3_neg",6371,12.5,"Risk","Biochemical","Caucasian",40,22.76,0.569,16.6,1.371084337,"Cerebral edema",0.11,9.5,"22.5",563
+"T1D_24","T1D","INS+CD3+","Pos","Insulitic","T1D_6371","INS_pos_CD3_pos",6371,12.5,"Risk","Biochemical","Caucasian",40,22.76,0.569,16.6,1.371084337,"Cerebral edema",0.11,9.5,"22.5",563
+"T1D_25","T1D","INS+CD3+","Pos","Insulitic","T1D_6371","INS_pos_CD3_pos",6371,12.5,"Risk","Biochemical","Caucasian",40,22.76,0.569,16.6,1.371084337,"Cerebral edema",0.11,9.5,"22.5",563
+"T1D_26","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6371","INS_pos_CD3_neg",6371,12.5,"Risk","Biochemical","Caucasian",40,22.76,0.569,16.6,1.371084337,"Cerebral edema",0.11,9.5,"22.5",563
+"T1D_27","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6371","INS_pos_CD3_neg",6371,12.5,"Risk","Biochemical","Caucasian",40,22.76,0.569,16.6,1.371084337,"Cerebral edema",0.11,9.5,"22.5",563
+"T1D_28","T1D","INS+CD3+","Pos","Insulitic","T1D_6371","INS_pos_CD3_pos",6371,12.5,"Risk","Biochemical","Caucasian",40,22.76,0.569,16.6,1.371084337,"Cerebral edema",0.11,9.5,"22.5",563
+"T1D_29","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6396","INS_pos_CD3_neg",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_30","T1D","INS-CD3+","Neg","Insulitic","T1D_6396","INS_neg_CD3_pos",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_31","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6396","INS_pos_CD3_neg",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_32","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6396","INS_pos_CD3_neg",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_33","T1D","INS+CD3+","Pos","Insulitic","T1D_6396","INS_pos_CD3_pos",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_34","T1D","INS+CD3+","Pos","Insulitic","T1D_6396","INS_pos_CD3_pos",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_35","T1D","INS+CD3+","Pos","Insulitic","T1D_6396","INS_pos_CD3_pos",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_36","T1D","INS+CD3+","Pos","Insulitic","T1D_6396","INS_pos_CD3_pos",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_37","T1D","INS+CD3+","Pos","Insulitic","T1D_6396","INS_pos_CD3_pos",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_38","T1D","INS+CD3+","Pos","Insulitic","T1D_6396","INS_pos_CD3_pos",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_39","T1D","INS+CD3+","Pos","Insulitic","T1D_6396","INS_pos_CD3_pos",6396,17.1,"Risk","Negative","Caucasian",71.6,45,0.62849162,22.6,1.991150442,"DKA, cerebral edema",0.06,13.4,"15.53",305
+"T1D_40","T1D","INS+CD3+","Pos","Insulitic","T1D_6247","INS_pos_CD3_pos",6247,24,"Risk","Biochemical","Caucasian",81.2,59.77,0.736083744,24.3,2.459670782,"Head Trauma (MVA)",0.47,NA,"22.98",498
+"T1D_41","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6247","INS_neg_CD3_neg",6247,24,"Risk","Biochemical","Caucasian",81.2,59.77,0.736083744,24.3,2.459670782,"Head Trauma (MVA)",0.47,NA,"22.98",498
+"T1D_59","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6247","INS_neg_CD3_neg",6247,24,"Risk","Biochemical","Caucasian",81.2,59.77,0.736083744,24.3,2.459670782,"Head Trauma (MVA)",0.47,NA,"22.98",498
+"T1D_76","T1D","INS-CD3+","Neg","Insulitic","T1D_6247","INS_neg_CD3_pos",6247,24,"Risk","Biochemical","Caucasian",81.2,59.77,0.736083744,24.3,2.459670782,"Head Trauma (MVA)",0.47,NA,"22.98",498
+"T1D_109","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6247","INS_neg_CD3_neg",6247,24,"Risk","Biochemical","Caucasian",81.2,59.77,0.736083744,24.3,2.459670782,"Head Trauma (MVA)",0.47,NA,"22.98",498
+"T1D_42","T1D","INS+CD3+","Pos","Insulitic","T1D_6268","INS_pos_CD3_pos",6268,12,"Risk","Biochemical","Caucasian",68,41.1,0.604411765,26.5625,1.547294118,"Anoxia",0.05,9.8,"17.5",310
+"T1D_43","T1D","INS+CD3+","Pos","Insulitic","T1D_6268","INS_pos_CD3_pos",6268,12,"Risk","Biochemical","Caucasian",68,41.1,0.604411765,26.5625,1.547294118,"Anoxia",0.05,9.8,"17.5",310
+"T1D_44","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6268","INS_neg_CD3_neg",6268,12,"Risk","Biochemical","Caucasian",68,41.1,0.604411765,26.5625,1.547294118,"Anoxia",0.05,9.8,"17.5",310
+"T1D_54","T1D","INS+CD3+","Pos","Insulitic","T1D_6268","INS_pos_CD3_pos",6268,12,"Risk","Biochemical","Caucasian",68,41.1,0.604411765,26.5625,1.547294118,"Anoxia",0.05,9.8,"17.5",310
+"T1D_73","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6268","INS_pos_CD3_neg",6268,12,"Risk","Biochemical","Caucasian",68,41.1,0.604411765,26.5625,1.547294118,"Anoxia",0.05,9.8,"17.5",310
+"T1D_100","T1D","INS+CD3+","Pos","Insulitic","T1D_6268","INS_pos_CD3_pos",6268,12,"Risk","Biochemical","Caucasian",68,41.1,0.604411765,26.5625,1.547294118,"Anoxia",0.05,9.8,"17.5",310
+"T1D_104","T1D","INS-CD3+","Neg","Insulitic","T1D_6268","INS_neg_CD3_pos",6268,12,"Risk","Biochemical","Caucasian",68,41.1,0.604411765,26.5625,1.547294118,"Anoxia",0.05,9.8,"17.5",310
+"T1D_45","T1D","INS+CD3+","Pos","Insulitic","T1D_6209","INS_pos_CD3_pos",6209,5,"Risk","Biochemical","Caucasian",15,12.5,0.833333333,15.9,0.786163522,"DKA, cerebral edema",0.1,NA,"",587
+"T1D_49","T1D","INS+CD3+","Pos","Insulitic","T1D_6209","INS_pos_CD3_pos",6209,5,"Risk","Biochemical","Caucasian",15,12.5,0.833333333,15.9,0.786163522,"DKA, cerebral edema",0.1,NA,"",587
+"T1D_53","T1D","INS+CD3+","Pos","Insulitic","T1D_6209","INS_pos_CD3_pos",6209,5,"Risk","Biochemical","Caucasian",15,12.5,0.833333333,15.9,0.786163522,"DKA, cerebral edema",0.1,NA,"",587
+"T1D_71","T1D","INS+CD3+","Pos","Insulitic","T1D_6209","INS_pos_CD3_pos",6209,5,"Risk","Biochemical","Caucasian",15,12.5,0.833333333,15.9,0.786163522,"DKA, cerebral edema",0.1,NA,"",587
+"T1D_77","T1D","INS+CD3+","Pos","Insulitic","T1D_6209","INS_pos_CD3_pos",6209,5,"Risk","Biochemical","Caucasian",15,12.5,0.833333333,15.9,0.786163522,"DKA, cerebral edema",0.1,NA,"",587
+"T1D_86","T1D","INS+CD3+","Pos","Insulitic","T1D_6209","INS_pos_CD3_pos",6209,5,"Risk","Biochemical","Caucasian",15,12.5,0.833333333,15.9,0.786163522,"DKA, cerebral edema",0.1,NA,"",587
+"T1D_97","T1D","INS-CD3+","Neg","Insulitic","T1D_6209","INS_neg_CD3_pos",6209,5,"Risk","Biochemical","Caucasian",15,12.5,0.833333333,15.9,0.786163522,"DKA, cerebral edema",0.1,NA,"",587
+"T1D_46","T1D","INS+CD3+","Pos","Insulitic","T1D_6113","INS_pos_CD3_pos",6113,13.1,"Risk","Biochemical","Caucasian",48,33.5,0.697916667,24.75,1.353535354,"Head Trauma",0.05,NA,"9.08",248
+"T1D_50","T1D","INS+CD3+","Pos","Insulitic","T1D_6113","INS_pos_CD3_pos",6113,13.1,"Risk","Biochemical","Caucasian",48,33.5,0.697916667,24.75,1.353535354,"Head Trauma",0.05,NA,"9.08",248
+"T1D_55","T1D","INS+CD3+","Pos","Insulitic","T1D_6113","INS_pos_CD3_pos",6113,13.1,"Risk","Biochemical","Caucasian",48,33.5,0.697916667,24.75,1.353535354,"Head Trauma",0.05,NA,"9.08",248
+"T1D_61","T1D","INS-CD3+","Neg","Insulitic","T1D_6113","INS_neg_CD3_pos",6113,13.1,"Risk","Biochemical","Caucasian",48,33.5,0.697916667,24.75,1.353535354,"Head Trauma",0.05,NA,"9.08",248
+"T1D_83","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6113","INS_neg_CD3_neg",6113,13.1,"Risk","Biochemical","Caucasian",48,33.5,0.697916667,24.75,1.353535354,"Head Trauma",0.05,NA,"9.08",248
+"T1D_91","T1D","INS+CD3+","Pos","Insulitic","T1D_6113","INS_pos_CD3_pos",6113,13.1,"Risk","Biochemical","Caucasian",48,33.5,0.697916667,24.75,1.353535354,"Head Trauma",0.05,NA,"9.08",248
+"T1D_93","T1D","INS+CD3+","Pos","Insulitic","T1D_6113","INS_pos_CD3_pos",6113,13.1,"Risk","Biochemical","Caucasian",48,33.5,0.697916667,24.75,1.353535354,"Head Trauma",0.05,NA,"9.08",248
+"T1D_47","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6306","INS_pos_CD3_neg",6306,19,"Risk","Biochemical","Caucasian",77.6,62.1,0.800257732,24.5,2.534693878,"Head Trauma",0.02,10.1,"36",716
+"T1D_60","T1D","INS+CD3+","Pos","Insulitic","T1D_6306","INS_pos_CD3_pos",6306,19,"Risk","Biochemical","Caucasian",77.6,62.1,0.800257732,24.5,2.534693878,"Head Trauma",0.02,10.1,"36",716
+"T1D_66","T1D","INS+CD3+","Pos","Insulitic","T1D_6306","INS_pos_CD3_pos",6306,19,"Risk","Biochemical","Caucasian",77.6,62.1,0.800257732,24.5,2.534693878,"Head Trauma",0.02,10.1,"36",716
+"T1D_81","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6306","INS_pos_CD3_neg",6306,19,"Risk","Biochemical","Caucasian",77.6,62.1,0.800257732,24.5,2.534693878,"Head Trauma",0.02,10.1,"36",716
+"T1D_96","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6306","INS_pos_CD3_neg",6306,19,"Risk","Biochemical","Caucasian",77.6,62.1,0.800257732,24.5,2.534693878,"Head Trauma",0.02,10.1,"36",716
+"T1D_99","T1D","INS+CD3+","Pos","Insulitic","T1D_6306","INS_pos_CD3_pos",6306,19,"Risk","Biochemical","Caucasian",77.6,62.1,0.800257732,24.5,2.534693878,"Head Trauma",0.02,10.1,"36",716
+"T1D_101","T1D","INS+CD3+","Pos","Insulitic","T1D_6306","INS_pos_CD3_pos",6306,19,"Risk","Biochemical","Caucasian",77.6,62.1,0.800257732,24.5,2.534693878,"Head Trauma",0.02,10.1,"36",716
+"T1D_107","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6306","INS_pos_CD3_neg",6306,19,"Risk","Biochemical","Caucasian",77.6,62.1,0.800257732,24.5,2.534693878,"Head Trauma",0.02,10.1,"36",716
+"T1D_48","T1D","INS+CD3+","Pos","Insulitic","T1D_6228","INS_pos_CD3_pos",6228,13,"Risk","Biochemical","Caucasian",45,30.35,0.674444444,17.4,1.744252874,"Anoxia",0.1,13.3,"15.55",664
+"T1D_58","T1D","INS+CD3+","Pos","Insulitic","T1D_6228","INS_pos_CD3_pos",6228,13,"Risk","Biochemical","Caucasian",45,30.35,0.674444444,17.4,1.744252874,"Anoxia",0.1,13.3,"15.55",664
+"T1D_69","T1D","INS+CD3+","Pos","Insulitic","T1D_6228","INS_pos_CD3_pos",6228,13,"Risk","Biochemical","Caucasian",45,30.35,0.674444444,17.4,1.744252874,"Anoxia",0.1,13.3,"15.55",664
+"T1D_78","T1D","INS+CD3+","Pos","Insulitic","T1D_6228","INS_pos_CD3_pos",6228,13,"Risk","Biochemical","Caucasian",45,30.35,0.674444444,17.4,1.744252874,"Anoxia",0.1,13.3,"15.55",664
+"T1D_82","T1D","INS-CD3+","Neg","Insulitic","T1D_6228","INS_neg_CD3_pos",6228,13,"Risk","Biochemical","Caucasian",45,30.35,0.674444444,17.4,1.744252874,"Anoxia",0.1,13.3,"15.55",664
+"T1D_110","T1D","INS-CD3+","Neg","Insulitic","T1D_6228","INS_neg_CD3_pos",6228,13,"Risk","Biochemical","Caucasian",45,30.35,0.674444444,17.4,1.744252874,"Anoxia",0.1,13.3,"15.55",664
+"T1D_51","T1D","INS+CD3+","Pos","Insulitic","T1D_6070","INS_pos_CD3_pos",6070,22.6,"Neutral","Biochemical","Caucasian",61,41.6,0.681967213,21.6,1.925925926,"Anoxia",0.05,NA,"15.97",494
+"T1D_56","T1D","INS+CD3+","Pos","Insulitic","T1D_6070","INS_pos_CD3_pos",6070,22.6,"Neutral","Biochemical","Caucasian",61,41.6,0.681967213,21.6,1.925925926,"Anoxia",0.05,NA,"15.97",494
+"T1D_64","T1D","INS+CD3+","Pos","Insulitic","T1D_6070","INS_pos_CD3_pos",6070,22.6,"Neutral","Biochemical","Caucasian",61,41.6,0.681967213,21.6,1.925925926,"Anoxia",0.05,NA,"15.97",494
+"T1D_67","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6070","INS_neg_CD3_neg",6070,22.6,"Neutral","Biochemical","Caucasian",61,41.6,0.681967213,21.6,1.925925926,"Anoxia",0.05,NA,"15.97",494
+"T1D_90","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6070","INS_neg_CD3_neg",6070,22.6,"Neutral","Biochemical","Caucasian",61,41.6,0.681967213,21.6,1.925925926,"Anoxia",0.05,NA,"15.97",494
+"T1D_98","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6070","INS_neg_CD3_neg",6070,22.6,"Neutral","Biochemical","Caucasian",61,41.6,0.681967213,21.6,1.925925926,"Anoxia",0.05,NA,"15.97",494
+"T1D_106","T1D","INS+CD3+","Pos","Insulitic","T1D_6070","INS_pos_CD3_pos",6070,22.6,"Neutral","Biochemical","Caucasian",61,41.6,0.681967213,21.6,1.925925926,"Anoxia",0.05,NA,"15.97",494
+"T1D_52","T1D","INS+CD3+","Pos","Insulitic","T1D_6243","INS_pos_CD3_pos",6243,13,"Risk","Biochemical","Caucasian",58.1,29.35,0.505163511,21.3,1.377934272,"Cerebrovascular/Stroke",0.42,13.1,"13.48",645
+"T1D_63","T1D","INS+CD3+","Pos","Insulitic","T1D_6243","INS_pos_CD3_pos",6243,13,"Risk","Biochemical","Caucasian",58.1,29.35,0.505163511,21.3,1.377934272,"Cerebrovascular/Stroke",0.42,13.1,"13.48",645
+"T1D_79","T1D","INS+CD3+","Pos","Insulitic","T1D_6243","INS_pos_CD3_pos",6243,13,"Risk","Biochemical","Caucasian",58.1,29.35,0.505163511,21.3,1.377934272,"Cerebrovascular/Stroke",0.42,13.1,"13.48",645
+"T1D_87","T1D","INS+CD3+","Pos","Insulitic","T1D_6243","INS_pos_CD3_pos",6243,13,"Risk","Biochemical","Caucasian",58.1,29.35,0.505163511,21.3,1.377934272,"Cerebrovascular/Stroke",0.42,13.1,"13.48",645
+"T1D_89","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6243","INS_neg_CD3_neg",6243,13,"Risk","Biochemical","Caucasian",58.1,29.35,0.505163511,21.3,1.377934272,"Cerebrovascular/Stroke",0.42,13.1,"13.48",645
+"T1D_102","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6243","INS_neg_CD3_neg",6243,13,"Risk","Biochemical","Caucasian",58.1,29.35,0.505163511,21.3,1.377934272,"Cerebrovascular/Stroke",0.42,13.1,"13.48",645
+"T1D_57","T1D","INS+CD3+","Pos","Insulitic","T1D_6212","INS_pos_CD3_pos",6212,20,"Protective","Biochemical","Caucasian",89.2,43.5,0.487668161,29.1,1.494845361,"Anoxia",0.05,6.4,"15.89",385
+"T1D_65","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6212","INS_neg_CD3_neg",6212,20,"Protective","Biochemical","Caucasian",89.2,43.5,0.487668161,29.1,1.494845361,"Anoxia",0.05,6.4,"15.89",385
+"T1D_75","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6212","INS_neg_CD3_neg",6212,20,"Protective","Biochemical","Caucasian",89.2,43.5,0.487668161,29.1,1.494845361,"Anoxia",0.05,6.4,"15.89",385
+"T1D_88","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6212","INS_pos_CD3_neg",6212,20,"Protective","Biochemical","Caucasian",89.2,43.5,0.487668161,29.1,1.494845361,"Anoxia",0.05,6.4,"15.89",385
+"T1D_94","T1D","INS+CD3+","Pos","Insulitic","T1D_6212","INS_pos_CD3_pos",6212,20,"Protective","Biochemical","Caucasian",89.2,43.5,0.487668161,29.1,1.494845361,"Anoxia",0.05,6.4,"15.89",385
+"T1D_105","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6212","INS_pos_CD3_neg",6212,20,"Protective","Biochemical","Caucasian",89.2,43.5,0.487668161,29.1,1.494845361,"Anoxia",0.05,6.4,"15.89",385
+"T1D_108","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6212","INS_neg_CD3_neg",6212,20,"Protective","Biochemical","Caucasian",89.2,43.5,0.487668161,29.1,1.494845361,"Anoxia",0.05,6.4,"15.89",385
+"T1D_62","T1D","INS-CD3+","Neg","Insulitic","T1D_6342","INS_neg_CD3_pos",6342,14,"Risk","Biochemical","Caucasian",62.3,34,0.545746388,24.3,1.399176955,"Anoxia",0.26,9.2,"14.18",889
+"T1D_68","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6342","INS_neg_CD3_neg",6342,14,"Risk","Biochemical","Caucasian",62.3,34,0.545746388,24.3,1.399176955,"Anoxia",0.26,9.2,"14.18",889
+"T1D_72","T1D","INS-CD3+","Neg","Insulitic","T1D_6342","INS_neg_CD3_pos",6342,14,"Risk","Biochemical","Caucasian",62.3,34,0.545746388,24.3,1.399176955,"Anoxia",0.26,9.2,"14.18",889
+"T1D_74","T1D","INS+CD3-","Pos","Not_insulitic","T1D_6342","INS_pos_CD3_neg",6342,14,"Risk","Biochemical","Caucasian",62.3,34,0.545746388,24.3,1.399176955,"Anoxia",0.26,9.2,"14.18",889
+"T1D_85","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6342","INS_neg_CD3_neg",6342,14,"Risk","Biochemical","Caucasian",62.3,34,0.545746388,24.3,1.399176955,"Anoxia",0.26,9.2,"14.18",889
+"T1D_95","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6342","INS_neg_CD3_neg",6342,14,"Risk","Biochemical","Caucasian",62.3,34,0.545746388,24.3,1.399176955,"Anoxia",0.26,9.2,"14.18",889
+"T1D_103","T1D","INS-CD3-","Neg","Not_insulitic","T1D_6342","INS_neg_CD3_neg",6342,14,"Risk","Biochemical","Caucasian",62.3,34,0.545746388,24.3,1.399176955,"Anoxia",0.26,9.2,"14.18",889
+"T1D_70","T1D","INS+CD3+","Pos","Insulitic","T1D_6052","INS_pos_CD3_pos",6052,12,"Neutral","Biochemical","African Am",56,22.1,0.394642857,20.3,1.088669951,"DKA, cerebral edema",0.18,NA,"14.75",480
+"T1D_80","T1D","INS+CD3+","Pos","Insulitic","T1D_6052","INS_pos_CD3_pos",6052,12,"Neutral","Biochemical","African Am",56,22.1,0.394642857,20.3,1.088669951,"DKA, cerebral edema",0.18,NA,"14.75",480
+"T1D_84","T1D","INS+CD3+","Pos","Insulitic","T1D_6052","INS_pos_CD3_pos",6052,12,"Neutral","Biochemical","African Am",56,22.1,0.394642857,20.3,1.088669951,"DKA, cerebral edema",0.18,NA,"14.75",480
+"T1D_92","T1D","INS+CD3+","Pos","Insulitic","T1D_6052","INS_pos_CD3_pos",6052,12,"Neutral","Biochemical","African Am",56,22.1,0.394642857,20.3,1.088669951,"DKA, cerebral edema",0.18,NA,"14.75",480
