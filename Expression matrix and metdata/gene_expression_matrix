@@ -1,2 +1,2 @@
-# This is the link to the NCBI GEO dataset. 
-# Download expression matrix and name it as "Gene_expression_groups.csv"
+# CEL files and expression values for each islet can be found at GEO database: GSE284772.
+# Expression matrix can be downloaded from https://doi.org/10.5281/zenodo.14537115
