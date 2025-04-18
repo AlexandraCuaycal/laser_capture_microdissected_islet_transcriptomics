@@ -207,7 +207,14 @@ rownames(each_cell_contam_logical) <- endocrine
 
 ## getting donors with alpha cell enriched islets
 donors_contam_all_islets <-  which(each_cell_contam_logical[1,] >= 3); length(donors_contam_all_islets)
-save(donors_contam_all_islets, file = "donors_contam_all_islets.RData")
+
+## which islets have enriched alpha-cell genes from INS+ islets
+islets_INS <- islet_id %>% filter(INS_stain == "Pos") %>% select(Islet_N)
+
+islets_INS_alpha <- donors_contam_all_islets[ names(donors_contam_all_islets) %in% islets_INS$Islet_N]; length(islets_INS_alpha)
+
+
+save(islets_INS_alpha, file = "islets_INS_alpha.RData")
 
 
 
