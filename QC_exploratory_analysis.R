@@ -60,8 +60,8 @@ PCA_UMAP_plots(glog_data_coding, cat_var = cat_var, folder_name = "Plots VSN tra
 islets <- colnames(glog_data_coding)
 
 ## islets with alpha cell enriched probes
-load(file = "donors_contam_all_islets.RData")
-donors_contam <- donors_contam_all_islets
+load(file = "islets_INS_alpha.RData")
+donors_contam <- islets_INS_alpha
 
 ##islets to remove
 islets_rm <- islets[islets %in% names(donors_contam)]; islets_rm
