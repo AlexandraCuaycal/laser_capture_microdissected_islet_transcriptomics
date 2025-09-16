@@ -126,6 +126,11 @@ venn_plots(data=DEGs_non_insulitic, DE_contrasts = non_insulitic_contrasts,folde
            logFCcutoff = 0.5, adj.p.val = 0.001,
            title = "INS+CD3- islets - Pseudotime")
 
+#barplot
+barplot_DEGs(non_insulitic_data, 
+             Contrast = c("sAAb vs ND", "mAAb vs sAAb", "T1D vs mAAb"),
+             Title = "INS+CD3- islets - Pseudotime")
+
 ## vs ND
 volcano_plots(data=DEGs_non_insulitic_ND, DE_contrasts = non_insulitic_contrasts_ND,folder_name = folder4, 
               title = "INS+CD3- islets", pCutoff = 0.001, labsize = 3.5,
@@ -139,6 +144,11 @@ volcano_plots(data=DEGs_non_insulitic_ND, DE_contrasts = non_insulitic_contrasts
 venn_plots(data=DEGs_non_insulitic_ND, DE_contrasts = non_insulitic_contrasts_ND,folder_name = folder4, 
            logFCcutoff = 0.5, width = 12, height = 12,
            title = "INS+CD3- islets - Compared to ND")
+
+# barplots
+barplot_DEGs(non_insulitic_data_ND, 
+             Contrast = c("sAAb vs ND", "mAAb vs ND", "T1D vs ND"),
+             Title = "INS+CD3- islets - Compared to ND")
 
 ### INSULITIC ###
 
@@ -155,6 +165,7 @@ volcano_plots(data=DEGs_insulitic, DE_contrasts = insulitic_contrasts, pCutoff =
 venn_plots(data=DEGs_insulitic, DE_contrasts = insulitic_contrasts,folder_name = folder2,
            title = "INS+CD3+ islets - Pseudotime")
 
+
 ## compared to ND
 insulitic_data_ND <- DEG_data_table(DEG_object = DEGs_insulitic_ND, adj.p.val = 0.001, 
                                     folder = folder2, contrast_to_get = insulitic_contrasts_ND)
@@ -166,6 +177,12 @@ volcano_plots(data=DEGs_insulitic_ND, DE_contrasts = insulitic_contrasts_ND, pCu
 
 venn_plots(data=DEGs_insulitic_ND, DE_contrasts = insulitic_contrasts_ND,folder_name = folder2,adj.p.val = 0.001,
            title = "INS+CD3+ islets - Compared to ND", alpha = 0, cat.names = c("mAAb", "T1D"))
+
+# barplots
+barplot_DEGs(insulitic_data_ND, 
+             Contrast = c("mAAb vs ND", "T1D vs ND"),
+             Title = "INS+CD3+ islets - Compared to ND INS+CD3-")
+
 
 ### comparing insulitic vs non-insulitic for each group (sAAb, mAAb and T1D)
 ##data tables
@@ -180,5 +197,10 @@ volcano_plots(data=DEGs_based_on_insulitis, DE_contrasts = based_on_insulitis_co
 
 venn_plots(data=DEGs_based_insulitis, DE_contrasts = based_on_insulitis_contrasts[2:3],folder_name = folder3,adj.p.val = 0.001,
            title = "INS+CD3+ vs INS+CD3- islets", cat.names = c("mAAb", "T1D"))
+
+#barplot
+barplot_DEGs(insulitic_vs_non_insulitic_data[2:3], 
+             Contrast = c("mAAb", "T1D"),
+             Title = "INS+CD3+ vs INS+CD3- islets")
 
 
