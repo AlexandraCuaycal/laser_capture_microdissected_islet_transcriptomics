@@ -26,6 +26,9 @@ load("insulitic_vs_non_insulitic_data.RData")
 
 #### start cluster profiler GSEA
 
+## uses a custom function that automatically performs GSEA and over-representation 
+## analysis with GO Biological process and KEGG pathways. Returns a list with four elements.
+
 ################################################################################################
 ################################# Pseudotimes - not insulitic #################################
 #################################################################################################
