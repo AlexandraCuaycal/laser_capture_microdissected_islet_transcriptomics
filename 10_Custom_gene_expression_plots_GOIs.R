@@ -251,4 +251,3 @@ gene_expression_graphs_sig(gene_expression=gene_expression_NI,
                                                  islet_id= islet_id, legend_size=16,
                                                  axis_ticks_size=14)
 
-
