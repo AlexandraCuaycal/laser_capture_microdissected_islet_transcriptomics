@@ -74,10 +74,28 @@ save(T1D_vs_ND_NI_enrichment, file = "T1D_vs_ND_NI_enrichment.RData")
 ######################################################################################
 ######################### common genes sAAb and mAAb #################################
 ######################################################################################
+## sAAb and mAAb CD3- genes compared to ND
+## using custom function to get common genes across two comparisons
+sAAb_mAAb_DEGs <- common_DEGs(list(non_insulitic_data_ND$`sAAb_INS+CD3- vs ND_INS+CD3-`,
+                              non_insulitic_data_ND$`mAAb_INS+CD3- vs ND_INS+CD3-`),
+                              names = c("sAAb", "mAAb"))
 
 #####################################################
 ##############  unique in sAAb among all 3 ##########
 #####################################################
+unique_sAAb_DEGs1 <- sAAb_mAAb_DEGs$DEGs_1[sAAb_mAAb_DEGs$DEGs_1$Donor_type_expression == 'sAAb only',]
+
+sAAb_T1D_DEGs <- common_DEGs(list(non_insulitic_data_ND$`sAAb_INS+CD3- vs ND_INS+CD3-`,
+                                  non_insulitic_data_ND$`T1D_INS+CD3- vs ND_INS+CD3-`),
+                             names = c("sAAb", "T1D"))
+
+unique_sAAb_DEGs2 <- sAAb_T1D_DEGs$DEGs_1[sAAb_T1D_DEGs$DEGs_1$Donor_type_expression == 'sAAb only',]
+
+unique_sAAb_genes <- intersect(unique_sAAb_DEGs1$ProbesetID, unique_sAAb_DEGs2$ProbesetID)
+
+unique_sAAb_DEGs <- sAAb_mAAb_DEGs$DEGs_1[sAAb_mAAb_DEGs$DEGs_1$ProbesetID %in% unique_sAAb_genes,]
+
+# run enrichment
 unique_sAAb_NI_enrichment <- GO_KEGG_gsea(data = unique_sAAb_DEGs,
                                           folder = "unique DEGs in sAAb vs ND NI", )
 
@@ -93,6 +111,9 @@ common_sAAb_mAAb_NI_enrichment <- GO_KEGG_gsea(data = sAAb_mAAb_DEGs$DEGs_2 %>% 
 save(common_sAAb_mAAb_NI_enrichment, file = "common_sAAb_mAAb_NI_enrichment.RData")
 
 #unique genes sAAb and mAAb
+unique_sAAb_mAAb_DEGs <- sAAb_mAAb_DEGs$DEGs_2 %>% filter(Donor_type_expression == "sAAb and mAAb") %>% 
+  filter(! ProbesetID %in% sAAb_mAAb_T1D_DEGs_NI$Overlap$ProbesetID_1 )
+
 unique_sAAb_mAAb_NI_enrichment <- GO_KEGG_gsea(data = unique_sAAb_mAAb_DEGs,
                                                folder = "Unique DEGs in sAAb and mAAb vs ND NI - done with mAAB logFC")
 
@@ -101,6 +122,18 @@ save(unique_sAAb_mAAb_NI_enrichment, file = "unique_sAAb_mAAb_NI_enrichment.RDat
 ###############################################
 ########## genes unique mAAb ##################
 ##############################################
+unique_mAAb_DEGs1 <- sAAb_mAAb_DEGs$DEGs_2[sAAb_mAAb_DEGs$DEGs_2$Donor_type_expression == 'mAAb only',]
+mAAb_T1D_DEGs <- common_DEGs(list(non_insulitic_data_ND$`mAAb_INS+CD3- vs ND_INS+CD3-`,
+                                  non_insulitic_data_ND$`T1D_INS+CD3- vs ND_INS+CD3-`),
+                             names = c("mAAb", "T1D"))
+
+unique_mAAb_DEGs2 <- mAAb_T1D_DEGs$DEGs_1[mAAb_T1D_DEGs$DEGs_1$Donor_type_expression == 'mAAb only',]
+
+unique_mAAb_genes <- intersect(unique_mAAb_DEGs1$ProbesetID, unique_mAAb_DEGs2$ProbesetID)
+
+unique_mAAb_DEGs <- sAAb_mAAb_DEGs$DEGs_2[sAAb_mAAb_DEGs$DEGs_2$ProbesetID %in% unique_mAAb_genes,]
+
+# enrichment
 unique_mAAb_NI_enrichment <- GO_KEGG_gsea(data = unique_mAAb_DEGs,
                                                folder = "Unique DEGs mAAb vs ND NI")
 
@@ -109,6 +142,18 @@ save(unique_mAAb_NI_enrichment, file = "unique_mAAb_NI_enrichment.RData")
 ####################################
 ########## unique in T1D ############
 ###################################
+
+sAAb_mAAb_T1D_DEGs_NI <- common_DEGs(list_DEGs = list(
+                                              non_insulitic_data_ND$`sAAb_INS+CD3- vs ND_INS+CD3-`,
+                                              non_insulitic_data_ND$`mAAb_INS+CD3- vs ND_INS+CD3-`,
+                                              non_insulitic_data_ND$`T1D_INS+CD3- vs ND_INS+CD3-`
+                                              ), names = c("sAAb", "mAAb", "T1D"))
+
+unique_T1D_DEGs <- sAAb_mAAb_T1D_DEGs_NI$DEGs_3 %>% filter(Donor_type_expression == "T1D only")
+unique_T1D_DEGs <- unique_T1D_DEGs %>% filter(! ProbesetID %in% c(sAAb_T1D_DEGs$Overlap$ProbesetID_1, 
+                                                                mAAb_T1D_DEGs$Overlap$ProbesetID_1))
+
+#enrichment
 unique_T1D_NI_enrichment <- GO_KEGG_gsea(data = unique_T1D_DEGs,
                                           folder = "Unique DEGs T1D vs ND - NI")
 
@@ -121,6 +166,9 @@ save(unique_T1D_NI_enrichment, file = "unique_T1D_NI_enrichment.RData")
 ####################################################################
 ##### common genes T1D Not Insulitic and Insulitic ##################
 ####################################################################
+T1D_NI_I_DEGs <- common_DEGs(list(non_insulitic_data_ND$`T1D_INS_pos_CD3_neg - ND_INS_pos_CD3_neg`,
+                                   insulitic_data_ND$`T1D_INS_pos_CD3_pos - ND_INS_pos_CD3_neg`),
+                              names = c("T1D_NI", "T1D_I"))
 
 common_T1D_NI_I_enrichment <- GO_KEGG_gsea(data = T1D_NI_I_DEGs$DEGs_1 %>% dplyr::filter(Donor_type_expression == "T1D_NI and T1D_I"),
                                           folder = "Common T1D DEGs NI I vs ND NI")
